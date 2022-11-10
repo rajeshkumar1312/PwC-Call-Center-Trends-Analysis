@@ -35,6 +35,7 @@ From Claire’s mail, her KPIs includes (but not limited to):
 - Microsoft PowerBI: As a PowerBI specialist, I carried out my data cleaning using the power query editor in PowerBI. I also carried out the visualization showing my insights (focusing on my KPIs) using the Data Analysis Expression (DAX) language for creating and calculating columns, measures and custom tables.
 
 ### Data Cleaning Process
+
 - Data cleaning is the process of preparing data for analysis by removing or modifying data that is incorrect, incomplete, irrelevant, duplicate, or improperly formatted.
 
 - Data cleaning plays an important role in the analytical process by making sure that the answers we uncover are reliable, accurate, and of high quality.
@@ -47,17 +48,15 @@ From Claire’s mail, her KPIs includes (but not limited to):
 
 ### Analysis & Insight
 
-- One of the important insights that Claire, the call center manager wants to know is the overall customer satisfaction score (CSAT), which means how satisfied customers are with there business. This was calculated by diving the positive rating (in this case 4 – 5 ratings) by the total number of responses and multiplying the answer by 100. To get my positive responses, I created a conditional column that only consist of 4 -5 ratings (positive).After all the calculation, the overall customer satisfaction score (CSAT) is 49.90%.
+- The call center has 8 agents in total. With Jim having the highest total answered calls 536 and stewart with the lowest at 477.
 
-- The call center has 8 agents in total. With Jim having the highest total rating at 1819 and Joi with the lowest at 1612.
+- From the total of 5000(100%) calls that came in, the agents were able to answered 4054(81%) calls indicating that 946(19%) were abandoned.
 
-- From the total of 5000 calls that came in, the agents were able to answered 4054 calls indicating that 946 were abandoned.
+- Out of the 4054(81%) calls answered, the agents were able to resolved 3646(73%) of the problem (customer concern) while they were not able to resolve those issues 408(27%) times.
 
-- Out of the 4054 calls answered, the agents were able to resolved 3646 of the problem (customer concern) while they were not able to resolve those issues 408 times.
+- The agents average speed of answering calls was 54.75 seconds.
 
-- The agents average speed of answering calls was 67.52 seconds.
-
-- The peak time of the call center are 11:55 am and 3:21 pm, 30 calls always comes in by these times.
+- Number of calls per months on January Number of calls answered 1455 and were abandoned calls is 317. February Number of calls answered 1298 and were abandoned calls is 318 and March Number of calls answered 1301 and were abandoned calls is 311.
 
 ## Overall Visualization.
 
@@ -67,11 +66,11 @@ From Claire’s mail, her KPIs includes (but not limited to):
 
 ### Recommendations
 
-- With only 49.90% of the customer being satisfied, the call center needs to invest in training the agents and most importantly, organize meetings with the agents to understand (and provide solutions) to the problems they might be facing. 49.9% CSAT is very bad for the business.
+- With only 4.5 out of Target Value Satisfaction 2.7 of the customer being satisfied, the call center needs to invest in training the agents and most importantly, organize meetings with the agents to understand (and provide solutions) to the problems they might be facing.
 
 - Out of every 10 calls that came in, the agents abandoned 1, this can be improved on. I will suggest employing 1 or 2 more agent.
 
-- With 408 issues not being able to be resolved, this indicates that the agents need more knowledge about the business / and its different services. I will advise the management to organize a workshop for the agents.
+- With 27%(408) issues not being able to be resolved, this indicates that the agents need more knowledge about the business / and its different services. I will advise the management to organize a workshop for the agents.
 
 
 
