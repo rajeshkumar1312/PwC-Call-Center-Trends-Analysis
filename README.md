@@ -1,4 +1,4 @@
-# PwC PowerBI Experience-01 Call-Center Trends Analysis
+# PwC PowerBI Experience Call Center Trends Analysis
 
 I participated in the open-access PwC Data Analytics Virtual Experience Program with Forage. Where I worked as a business data analyst to help an organization named “PhoneNow” to analyze their data and help them understand how they can leverage on their massive amount of data.
 
